@@ -1,2 +1,0 @@
-# Mitgliederliste
-GitHub für Hausarbeit 
